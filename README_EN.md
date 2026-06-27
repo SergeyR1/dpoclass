@@ -19,7 +19,7 @@ dpoclass/
 │   ├── hiclass_model.pkl  # Trained HiClass model (download from Releases)
 │   └── vectorizer.pkl     # TF-IDF vectorizer (download from Releases)
 ├── data/
-│   └── classifier-2.csv   # Classifier reference dictionary (lvl1–lvl4)
+│   └── classifier.csv   # Classifier reference dictionary (lvl1–lvl4)
 ├── tests/
 │   └── test_api.py        # Pytest endpoint tests
 ├── Dockerfile

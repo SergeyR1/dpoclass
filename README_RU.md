@@ -19,7 +19,7 @@ dpoclass/
 │   ├── hiclass_model.pkl  # Обученная HiClass-модель (скачать из Releases)
 │   └── vectorizer.pkl     # TF-IDF векторизатор (скачать из Releases)
 ├── data/
-│   └── classifier-2.csv   # Справочник классификатора (lvl1–lvl4)
+│   └── classifier.csv   # Справочник классификатора (lvl1–lvl4)
 ├── tests/
 │   └── test_api.py        # Pytest-тесты эндпоинтов
 ├── Dockerfile
