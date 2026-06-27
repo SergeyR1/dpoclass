@@ -150,4 +150,4 @@ pytest tests/ -v
 
 ## License
 
-MIT
+Apache 2.0

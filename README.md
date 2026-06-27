@@ -153,7 +153,7 @@ pytest tests/ -v
 
 ## Лицензия
 
-MIT
+Apache 2.0
 
 ---
 
@@ -309,4 +309,4 @@ pytest tests/ -v
 
 ## License
 
-MIT
+Apache 2.0
