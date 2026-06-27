@@ -2,7 +2,6 @@
 
 Hierarchical classification of teacher course names across 4 levels.  
 Model: **HiClass LCPN** (LocalClassifierPerNode) + **RandomForest** + **TF-IDF** (bigrams).  
-Trained on ~20,000 manually labeled professional development (CPD) programs.
 
 🔗 Repository: https://github.com/SergeyR1/dpoclass
 

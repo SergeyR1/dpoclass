@@ -1,8 +1,7 @@
 # 🎓 dpoclass — Course Classifier API
 
 Иерархическая классификация названий курсов педагогов по 4 уровням.  
-Модель: **HiClass LCPN** (LocalClassifierPerNode) + **RandomForest** + **TF-IDF** (биграммы).  
-Обучена на ~20 000 вручную размеченных программ ДПО (ПК и ПП).
+Модель: **HiClass LCPN** (LocalClassifierPerNode) + **RandomForest** + **TF-IDF** (биграммы). 
 
 🔗 Репозиторий: https://github.com/SergeyR1/dpoclass
 
