@@ -1,0 +1,11 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+hiclass>=4.9.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+pymorphy3>=2.0.2
+nltk>=3.8.1
+openpyxl>=3.1.2
+python-Levenshtein>=0.25.0
